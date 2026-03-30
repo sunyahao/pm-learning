@@ -18,3 +18,12 @@ Thumbs.db
 
 # 额外补充：忽略所有大体积PDF，避免再次触发文件大小限制
 *.pdf
+
+# 临时预览图片文件
+.preview_*.png
+
+# 所有tmp开头的临时文件（全覆盖png、txt等所有格式）
+.tmp_*
+
+# OCR拆分临时txt文件
+*.tmp_ocr_split
