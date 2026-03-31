@@ -31,6 +31,15 @@
 - [需求文件.md](/D:/codex-project/chapters/09-范围管理/输出物/需求文件.md)
 - [需求跟踪矩阵.md](/D:/codex-project/chapters/09-范围管理/输出物/需求跟踪矩阵.md)
 - [项目范围说明书.md](/D:/codex-project/chapters/09-范围管理/输出物/项目范围说明书.md)
+- [WBS.md](/D:/codex-project/chapters/09-范围管理/输出物/WBS.md)
 - [WBS词典.md](/D:/codex-project/chapters/09-范围管理/输出物/WBS词典.md)
 - [验收确认单.md](/D:/codex-project/chapters/09-范围管理/输出物/验收确认单.md)
 - [变更请求单.md](/D:/codex-project/chapters/09-范围管理/输出物/变更请求单.md)
+
+## 建议连着看
+
+- 如果你总分不清 `项目范围说明书`、`WBS` 和 `WBS词典`，建议按这个顺序看：
+- [项目范围说明书.md](/D:/codex-project/chapters/09-范围管理/输出物/项目范围说明书.md)
+- [WBS.md](/D:/codex-project/chapters/09-范围管理/输出物/WBS.md)
+- [WBS词典.md](/D:/codex-project/chapters/09-范围管理/输出物/WBS词典.md)
+- 可以把它理解成“先定边界，再做结构分解，再补每个工作包的说明”。 
