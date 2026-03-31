@@ -6,6 +6,10 @@
 
 - [成本估算方法白话说明.md](/D:/codex-project/chapters/11-成本管理/工具与技术/成本估算方法白话说明.md)
 
+如果你现在卡在“PV、EV、AC、CPI、SPI、EAC 到底怎么算、怎么算完怎么判断”，再看：
+
+- [挣值分析与常考计算白话说明.md](/D:/codex-project/chapters/11-成本管理/工具与技术/挣值分析与常考计算白话说明.md)
+
 看完后再回到：
 
 - [完整整理.md](/D:/codex-project/chapters/11-成本管理/完整整理.md)
