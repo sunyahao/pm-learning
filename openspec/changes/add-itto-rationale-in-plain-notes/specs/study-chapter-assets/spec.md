@@ -1,7 +1,7 @@
 ## ADDED Requirements
 
-### Requirement: Plain-language notes may explain why a process naturally uses and produces certain ITTOs
-重点项目管理章节的 `白话拆解.md` 可以补充“为什么是这些 ITTO”的解释，帮助学习者把过程目标、项目动作和关键输入、关键工具与技术、关键输出物对应起来，而不是只机械背诵名称。
+### Requirement: Chapters 08 through 17 must explain why their key ITTOs appear
+第08章至第17章的 `白话拆解.md` 必须补充“为什么是这些 ITTO”的解释，帮助学习者把过程目标、项目动作和关键输入、关键工具与技术、关键输出物对应起来，而不是只机械背诵名称。
 
 #### Scenario: Learner remembers ITTO names but cannot explain their logic
 - **Given** 学习者已经看到某章的 ITTO 列表
@@ -9,11 +9,11 @@
 - **Then** 可在 `白话拆解.md` 中看到成因解释
 - **And** 解释会把过程动作与关键输入、关键工具与技术、关键输出物联系起来
 
-### Requirement: Chapter 12 plain-language notes must include key input and output rationale for quality processes
-第12章 `质量管理` 的 `白话拆解.md` 必须增加“为什么是这些 ITTO”的讲解，解释 `规划质量管理`、`管理质量`、`控制质量` 这些过程为什么会使用对应的关键输入、关键工具，并产出对应的关键输出物。
+### Requirement: ITTO quick-view files should point back to plain-language rationale
+第08章至第17章的 `ITTO输出速看.md` 应补充回链提示，引导学习者从快速记忆跳回 `白话拆解.md` 中对应的 ITTO 成因解释。
 
-#### Scenario: Learner studies quality management ITTOs through process logic
-- **Given** 学习者正在学习第12章 `质量管理`
-- **When** 他阅读 `白话拆解.md`
-- **Then** 能看到一段专门解释质量管理三过程关键 ITTO 成因的内容
-- **And** 能理解这些关键输入、关键工具和输出为什么会在对应过程出现
+#### Scenario: Learner wants to go from memorizing names to understanding process logic
+- **Given** 学习者正在查看某章的 `ITTO输出速看.md`
+- **When** 他发现自己记住了名称但仍不理解为什么会这样配
+- **Then** 能看到回链提示
+- **And** 能直接回到该章 `白话拆解.md` 中对应的 ITTO 解释部分
